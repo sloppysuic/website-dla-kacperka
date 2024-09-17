@@ -1,0 +1,52 @@
+/* jak nie wycentruje to sie poplacze :) */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #88659F;
+}
+
+
+#yesButton {
+    position: absolute;
+    margin-right: 150px;
+}
+
+.header_text {
+    font-family:'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: #FAF9F6;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.text {
+    font-family: 'Nunito';
+    font-size: 25px;
+    font-weight: bold;
+    color: #FAF9F6;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+
+
+.btn {
+    background-color: #5C406F;
+    color: #FAF9F6;
+}
+
+.btn:hover {
+    background-color: #FAF9F6;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+}
